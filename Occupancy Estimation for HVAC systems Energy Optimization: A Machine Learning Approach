@@ -1,1 +1,6 @@
-
+git init
+git add README.md  
+git add Khaled_Alkhouli_ML_Notebook_part_2.ipynb
+git commit -m "notebook first commit" 
+git remote add origin https://github.com/Khoulii/My-Projects/edit/main/Occupancy%20Estimation%20for%20HVAC%20systems%20Energy%20Optimization%3A%20A%20Machine%20Learning%20Approach 
+git push -u origin master
